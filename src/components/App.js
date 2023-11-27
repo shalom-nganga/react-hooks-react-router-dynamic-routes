@@ -4,7 +4,7 @@ import NavBar from "./NavBar";
 import MoviesPage from "./MoviesPage";
 
 function App() {
-  const [movies, setMovies] = useState([
+  const [movies, ] = useState([
     { id: 1, title: "A River Runs Through It" },
     { id: 2, title: "Se7en" },
     { id: 3, title: "Inception" }
